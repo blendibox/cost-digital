@@ -436,7 +436,7 @@ import { useEffect } from "react";
       <div class="price-tag"><sup>R$</sup>37</div>
       <p class="price-note">Pagamento único · Acesso vitalício</p>
 
-      <a href="#" class="btn-cta-big">🧵 Quero começar a vender agora!</a>
+      <a href="https://pay.hotmart.com/H104635700U" class="btn-cta-big">🧵 Quero começar a vender agora!</a>
       <p class="guarantee-text">🔒 Compra segura · Pagamento criptografado</p>
     </div>
   </div>
