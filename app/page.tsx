@@ -108,7 +108,7 @@ import { useEffect } from "react";
       Chega de costurar pra enriquecer os outros.
       <em>Agora é a sua vez.</em>
     </h1>
-    <p class="hero-subtitle">Descubra como vender seus produtos na internet todos os dias — mesmo sem saber nada de tecnologia</p>
+    <p class="hero-subtitle">Descubra como vender seus produtos na internet todos os dias — mesmo que nunca tenha vendido nada na internet.</p>
 
     <div class="gold-divider">
       <span>🧵</span>
@@ -450,7 +450,7 @@ import { useEffect } from "react";
     <div class="faq-list reveal">
       <div class="faq-item">
         <div class="faq-q">Preciso saber mexer em computador para aplicar o que está no e-book?</div>
-        <div class="faq-a">Não! O e-book foi escrito especialmente para quem não tem experiência com tecnologia. Tudo é explicado passo a passo, com linguagem simples. Se você consegue usar celular, consegue aplicar o que está aqui.</div>
+        <div class="faq-a">Sim! O e-book foi escrito especialmente para facilitar o uso da tecnologia. Tudo é explicado passo a passo, com linguagem simples. Se você consegue usar celular, consegue aplicar o que está aqui.</div>
       </div>
       <div class="faq-item">
         <div class="faq-q">Preciso ter estoque de produtos para começar a vender?</div>
